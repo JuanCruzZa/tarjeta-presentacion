@@ -4,3 +4,48 @@
     box-sizing: border-box;
 }
 
+h1{
+    color: wheat;
+    background-color: darkslateblue;
+    text-align: center;
+    height: 5vh;
+}
+
+main{
+    background-image: url(../img/ChatGPT\ Image\ 20\ jun\ 2025\,\ 21_32_36.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:top;
+    height: 90vh;
+    text-align: center;
+}
+
+
+h2{
+    color: rgb(0, 0, 0);
+    padding: 20px 15px;
+    background-color: rgba(229, 87, 158, 0.516);
+    border-radius: 10px;
+    margin: 0px 35px;
+}
+
+section{
+    margin: 35px 35px;
+}
+
+div{
+    margin: 35px 35px;
+    background-color: rgba(11, 8, 0, 0.486);
+    border-radius: 10px;
+    color: whitesmoke;
+}
+
+h3{
+padding: 20px;
+}
+
+p{
+    padding-bottom: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
