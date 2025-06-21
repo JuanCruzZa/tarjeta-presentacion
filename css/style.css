@@ -23,7 +23,7 @@ h2{
     color: rgb(0, 0, 0);
     padding: 20px 15px;
     background-color: rgba(249, 225, 237, 0.76);
-    border-radius: 10px;
+    border-radius: 0px 0px 10px 10px;
     margin: 0px 35px;
     font-family: "Josefin Sans", sans-serif;
 }
@@ -41,6 +41,16 @@ div{
 
 img{
     height: 30vh;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.imagen-ghibli {
+  transition: transform 0.3s;
+}
+
+.imagen-ghibli:hover {
+  transform: scale(1.2) rotate(5deg);
 }
 
 h3{
@@ -52,4 +62,9 @@ p{
     padding-bottom: 20px;
     padding-left: 35px;
     padding-right: 35px;
+}
+
+h4{
+    margin-left: 35px;
+    margin-top: 15px;
 }
