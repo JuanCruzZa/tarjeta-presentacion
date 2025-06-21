@@ -5,17 +5,15 @@
 }
 
 h1{
-    color: wheat;
+    color: rgb(245, 222, 179);
     background-color: darkslateblue;
     text-align: center;
     height: 5vh;
+    font-family: "Bebas Neue", sans-serif;
 }
 
 main{
-    background-image: url(../img/ChatGPT\ Image\ 20\ jun\ 2025\,\ 21_32_36.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position:top;
+    background-color: goldenrod;
     height: 90vh;
     text-align: center;
 }
@@ -24,9 +22,10 @@ main{
 h2{
     color: rgb(0, 0, 0);
     padding: 20px 15px;
-    background-color: rgba(229, 87, 158, 0.516);
+    background-color: rgba(249, 225, 237, 0.76);
     border-radius: 10px;
     margin: 0px 35px;
+    font-family: "Josefin Sans", sans-serif;
 }
 
 section{
@@ -40,11 +39,16 @@ div{
     color: whitesmoke;
 }
 
+img{
+    height: 30vh;
+}
+
 h3{
 padding: 20px;
 }
 
 p{
+    padding-top: 10px;
     padding-bottom: 20px;
     padding-left: 35px;
     padding-right: 35px;
