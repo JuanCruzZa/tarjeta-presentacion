@@ -62,6 +62,22 @@ Repositorio subido a GitHub y publicado mediante GitHub Pages.
 
 ---
 
+## 🔧 Requisitos y cómo se implementaron
+
+| Requisito | Implementación en el proyecto |
+|-----------|------------------------------|
+| **HTML elem. básicos** | `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`, `<img>`, `<div>` presentes en `index.html`. |
+| **Fondo de color** | `main { background-color: goldenrod; }`. |
+| **Color de texto** | Encabezado claros sobre fondo oscuro (`h1`), texto blanco sobre tarjetas oscuras. |
+| **Márgenes y padding** | Márgenes en `section`, `div`; `padding` en texto e imágenes. |
+| **border / border-radius** | Imágenes con borde azul de 3 px y `border-radius:10px`. |
+| **CSS externo** | Archivo `css/style.css` enlazado. |
+| **Sin Flex / Grid** | Layout fluido; centrado con `text-align:center`. |
+| **Opcional 1 – Google Fonts** | Fuentes **Bebas Neue** y **Josefin Sans** cargadas vía `@import` y clases utilitarias `.fuentebebas`, `.fuentejosefin`. |
+| **Opcional 2 – :hover en imagen** | `.imagen-ghibli:hover { transform: scale(1.2) rotate(5deg); }`. |
+
+---
+
 ## 📁 Estructura del proyecto
 ```
 tarjeta-presentacion/
