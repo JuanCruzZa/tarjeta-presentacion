@@ -4,6 +4,9 @@ Este proyecto fue realizado como parte del **Trabajo Práctico Nº 1** del cur
 El objetivo fue crear una tarjeta de presentación personal utilizando HTML y CSS básico, sin Flexbox ni Grid.
 
 ---
+## 🚀 Cómo ver el proyecto
+- **Demo en GitHub Pages**: <https://juancruzza.github.io/tarjeta-presentacion/>
+---
 
 ## 🧠 ¿Qué incluye la tarjeta?
 
